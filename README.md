@@ -1,44 +1,4 @@
-# Overview
+I have updated the README.md. I have chosen Python as my language. 
+This will be my first project involving Python, so I am excited to learn this popular language.
 
-This repository is a collection of code examples for CS 417/517.
-
-
-# Working with the Example Code
-
-The contents of this repo can be downloaded as a zip file (using the download
-button). In general, cloning the repo using
-
-```
-git clone git@git-community.cs.odu.edu:tkennedy/cs417-lecture-examples.git
-```
-
-is the better option. Cloning the repo will allow you to download updates from
-lecture using
-
-```
-git pull
-```
-
-## SSH Keys
-
-To clone the repo, you will need to set up SSH Keys in
-<https://git-community.cs.odu.edu>.
-
-
-# Languages
-
-Depending on the discussion, source code may be written in
-
-  - Python 3.7+
-  - C++ (11, 17, or 20)
-  - Rust
-
-Each example will include a `README.md` that describes the required
-compiler/interpreter, compilation instructions, and example commands.
-
-
-# Dockerfile
-
-Run `docker build --tag 417-examples:0.1 .` to build the Docker image.
-
-Run `docker run -it 417-examples:0.1` to run the Docker image.
+Anyway, hope this README is acceptable.
